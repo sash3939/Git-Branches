@@ -43,6 +43,14 @@ done
 
 **Шаг 2.** Создадим коммит с описанием `prepare for merge and rebase` и отправим его в ветку main. 
 
+## РЕШЕНИЕ «Ветвление, merge и rebase» 
+
+[git push](https://github.com/sash3939/Git-Branches/assets/156709540/a9632bf0-a620-40c6-a9fb-ebdc50151020)
+----
+
+[git web](https://github.com/sash3939/Git-Branches/assets/156709540/33ac82d1-7521-481a-89a4-cc4400d4b76c)
+----
+
 #### Подготовка файла merge.sh 
  
 **Шаг 1.** Создайте ветку `git-merge`. 
