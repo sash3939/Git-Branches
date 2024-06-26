@@ -87,6 +87,16 @@ done
 
 **Шаг 5.** Создайте коммит `merge: use shift` и отправьте изменения в репозиторий. 
 
+## РЕШЕНИЕ Подготовка файла merge.sh
+
+[change merge.sh](https://github.com/sash3939/Git-Branches/assets/156709540/9fa8b6f2-29c7-4fcc-8c29-ec4cdab19cc4)
+----
+
+[commit and push](https://github.com/sash3939/Git-Branches/assets/156709540/ba21bdf6-dca1-4877-aa43-f2438c8fdc64)
+----
+
+
+
 #### Изменим main  
 
 **Шаг 1.** Вернитесь в ветку `main`. 
