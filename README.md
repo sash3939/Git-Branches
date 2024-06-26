@@ -330,8 +330,14 @@ Fast-forward
 ```
 
 *В качестве результата работы по всем заданиям приложите ссылку на .md-файл в вашем репозитории.*
- 
+
+[network](https://github.com/sash3939/Git-Branches/assets/156709540/1ead13b5-717c-4434-8871-61b521bf13e1)
 ----
+
+[git rebase -i main](https://github.com/sash3939/Git-Branches/assets/156709540/9bd1c694-76ca-4fb0-8090-06f26ee24781)
+----
+
+
 
 ### Правила приёма домашнего задания
 
