@@ -203,10 +203,6 @@ echo "====="
 [merge rebase with main](https://github.com/sash3939/Git-Branches/assets/156709540/5284b363-6173-443f-8d23-035158d41bbe)
 ----
 
-[network](https://github.com/sash3939/Git-Branches/assets/156709540/1ead13b5-717c-4434-8871-61b521bf13e1)
-----
-
-[git rebase -i main](https://github.com/sash3939/Git-Branches/assets/156709540/9bd1c694-76ca-4fb0-8090-06f26ee24781)
 ----
 
 
