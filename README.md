@@ -191,7 +191,17 @@ echo "====="
 [network](https://github.com/sash3939/Git-Branches/assets/156709540/ac27b16a-a99d-4ff3-aa2d-a6522fdd3a9b)
 ----
 
+[git merge git-merge](https://github.com/sash3939/Git-Branches/assets/156709540/b08850b2-10ee-4fc1-8b3a-74f7ed4ba75e)
+----
 
+[CONFLICT rebase](https://github.com/sash3939/Git-Branches/assets/156709540/92bee411-91a3-417e-b684-38f5569b9d8d)
+----
+
+[CONFLICT continue](https://github.com/sash3939/Git-Branches/assets/156709540/1fceb961-d7f0-40dd-a065-ebefc1ab0ade)
+----
+
+[merge rebase with main](https://github.com/sash3939/Git-Branches/assets/156709540/5284b363-6173-443f-8d23-035158d41bbe)
+----
 
 #### Merge
 
