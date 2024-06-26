@@ -152,6 +152,23 @@ echo "====="
 
 **Шаг 5.** И сделаем ещё один коммит `git-rebase 2` с пушем, заменив `echo "Parameter: $param"` на `echo "Next parameter: $param"`.
 
+## РЕШЕНИЕ Подготовка файла rebase.sh
+
+Шаг 1. [git checkout hash](https://github.com/sash3939/Git-Branches/assets/156709540/887b1c29-60fd-4142-b19c-667d0c7540b0)
+----
+
+Шаг 2. [branch git-rebase](https://github.com/sash3939/Git-Branches/assets/156709540/6910d0f9-23c5-4a96-a1f5-e1ed5e9dca3a)
+----
+
+Шаг3,4. [commit and push git-rebase 1](https://github.com/sash3939/Git-Branches/assets/156709540/48fefb05-0bf8-4b87-ad6d-209bfd20363d)
+----
+
+Шаг 5.  [commit and push git-rebase 2](https://github.com/sash3939/Git-Branches/assets/156709540/ce919036-11b4-4304-8607-d5d0391a1ead)
+----
+
+
+
+
 #### Промежуточный итог  
 
 Мы сэмулировали типичную ситуации в разработке кода, когда команда разработчиков работала над одним и тем же участком кода, и кто-то из разработчиков 
