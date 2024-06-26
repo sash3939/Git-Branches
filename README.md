@@ -180,6 +180,17 @@ echo "====="
   
 ![Созданы обе ветки](img/01.png)
 
+
+## РЕШЕНИЕ Промежуточный итог  
+
+[checkout,merge](https://github.com/sash3939/Git-Branches/assets/156709540/ae73dc73-9579-49d7-88c1-13e8c92fde89)
+----
+
+[network](https://github.com/sash3939/Git-Branches/assets/156709540/ac27b16a-a99d-4ff3-aa2d-a6522fdd3a9b)
+----
+
+
+
 #### Merge
 
 Сливаем ветку `git-merge` в main и отправляем изменения в репозиторий, должно получиться без конфликтов:
